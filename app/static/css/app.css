@@ -5,3 +5,12 @@ body {
 ul {
     list-style: none;
 }
+
+form label {
+    font-weight: bold;
+}
+
+input[type="submit"] {
+    width: 200px;
+}
+
